@@ -1,7 +1,7 @@
 # MiAI_Game_Control_by_Pose
 Demo of game control by mediapipe pose
 
-Video link:  https://www.miai.vn/2021/03/02/thu-lam-bac-si-chuan-doan-x-quang-cung-yolo-v5-phan-1-2/
+Video link:  https://youtu.be/UlGs_rUomow
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
